@@ -46,7 +46,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
-background: url('https://fandinod.github.io/kandashrine/img/main.jpg') no-repeat center center fixed;
+background: url('img/main.jpg') no-repeat center center fixed;
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
