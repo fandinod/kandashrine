@@ -18,7 +18,7 @@ body {
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url('https://fandinod.github.io/kanda/img/main.jpg') no-repeat center center fixed;
+  background: url('https://fandinod.github.io/kandashrine/img/main.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
