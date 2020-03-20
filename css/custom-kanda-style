@@ -11,3 +11,23 @@ body {
      width: 800px;
      margin: 0 auto;
 }
+
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: url('https://fandinod.github.io/kanda/img/main.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+body {
+  padding-top: 56px;
+}
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
